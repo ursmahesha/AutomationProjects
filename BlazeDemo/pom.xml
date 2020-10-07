@@ -3,7 +3,7 @@
   <groupId>com.blazedemo</groupId>
   <artifactId>Blazedemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>PrizeMachineAdmin</name>
+  <name>BlazeDemo</name>
   
   <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
